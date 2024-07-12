@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "5320c478-697a-4dd2-a4a9-a4e0c64271c2",
+    "name": "Jacob Kunde",
+    "phone": "792-986-7625 x57806",
+    "email": "Jessyca4@yahoo.com",
+    "job": "Senior Solutions Developer"
+  },
+  {
+    "id": "14745a44-db72-4525-8d90-78630ef432e2",
+    "name": "Raymond Johns",
+    "phone": "970.455.7339",
+    "email": "Lindsay3@yahoo.com",
+    "job": "International Group Representative"
+  },
+  {
+    "id": "a9ff03ec-56ed-4171-a3de-4ba5895e6cd3",
+    "name": "Thelma Kiehn DVM",
+    "phone": "(726) 572-8055 x993",
+    "email": "Alison6@yahoo.com",
+    "job": "District Web Developer"
+  },
+  {
+    "id": "fb30af2f-e043-4c5d-abbf-25d83d26a760",
+    "name": "Leticia Anderson",
+    "phone": "875-641-4192 x63857",
+    "email": "Amaya_Emmerich@hotmail.com",
+    "job": "Legacy Intranet Designer"
+  }
+]
